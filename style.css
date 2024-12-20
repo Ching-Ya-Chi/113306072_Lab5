@@ -1,0 +1,22 @@
+#inputbox{
+    width: 100%;
+    margin-bottom: 2%;
+}
+#oc{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    width:100%;
+    border-collapse: collapse;
+    border: rgb(214, 212, 210);
+    
+}
+thead{
+    font-weight: bolder;
+    background-color: aliceblue;
+}
+tr{
+    height: 40px;
+}
+td{
+    width:25%;
+}
